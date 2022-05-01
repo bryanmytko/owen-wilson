@@ -2,6 +2,8 @@
 
 ![owen](/media/face.png)
 
+Sounds files are either the default contained mp3s or via [https://github.com/amamenko/owen-wilson-wow-api](https://github.com/amamenko/owen-wilson-wow-api)
+
 ## Install
 
 1. Create an application on Discord and convert it to a bot [https://discord.com/developers](https://discord.com/developers)
